@@ -2,8 +2,12 @@
 <h3 align="center">🚀 MERN Stack Developer</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co.com/DDV33Mjr/Gemini-Generated-Image-8jk8668jk8668jk8.png" alt="Ratul Hasan Banner" />
+  <img src="https://i.ibb.co/DDV33Mjr/Gemini-Generated-Image-8jk8668jk8668jk8.png" 
+       alt="Ratul Hasan Banner" 
+       width="1000px" 
+       height="650px" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D98BA&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer+💙;React+Developer+⚛️;Passionate+Coder+🚀;Always+Learning+📚" />
