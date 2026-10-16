@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://soft-mandazi-23146f.netlify.app/">
+  <a href="https://my-full-stack-portfolio-nu.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-84CC16?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
   <a href="https://github.com/mdratul4505">
